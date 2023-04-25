@@ -1,0 +1,11 @@
+22:28:12,724 root INFO Process started...
+22:28:12,740 root INFO Looking for PDF files in the directory
+22:28:12,740 root INFO Looking for PDF files in the directory
+22:28:13,360 root INFO PDF converted into images.
+22:28:15,730 root INFO Tables extracted from image
+22:28:17,77 root INFO Other metadata fields extracted from the image.
+22:28:17,277 root INFO Dataframe created to store
+22:28:18,981 root INFO Tables extracted from image
+22:28:20,272 root INFO Other metadata fields extracted from the image.
+22:28:20,291 root INFO Dataframe created to store
+22:28:20,322 root INFO Final Output file generated successfully

@@ -1,0 +1,9 @@
+img2table==0.1.0
+numpy==1.24.3
+openpyxl==3.1.2
+paddle-python==0.6.0
+paddleocr==2.6.1.3
+pandas==2.0.1
+pdf2image==1.16.3
+Pillow==9.5.0
+pytesseract==0.3.10
